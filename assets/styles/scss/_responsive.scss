@@ -1,0 +1,160 @@
+@media (max-width: 1281px) {
+	.team-section {
+		.team-members-container {
+			grid-template-columns:  1fr 1fr;
+			grid-template-areas: auto;
+
+			.team-member {
+				&__image {
+					height: 50vh;
+				}
+			}
+		}
+	}
+}
+@media (max-width: 900px) {
+
+	body {
+		font-size: 24px;
+	}
+
+	.slider-section {
+		font-size: 2.2em;
+		text-align: center;
+	}
+
+	.about-section {
+		grid-template-columns: 1fr;
+
+		#workers-tile {
+			order: 3;
+		}
+
+		#knowledge-tile {
+			order: 4;
+		}
+	}
+
+	.offer-section {
+		padding: 160px 40px;
+		font-size: 1.2em;
+	}
+
+	.offer-quality-section {
+		.notes-container {
+			grid-template-columns: 1fr;
+			grid-template-rows: auto;
+			gap: 2em;
+		}
+	}
+
+	.slideshow-menu-container {
+		.menu {
+			&__image {
+				height: 60vh;
+			}
+		}
+	}
+
+	.location-section {
+		.notes-container {
+			grid-template-columns: 1fr;
+			grid-template-rows: auto;
+			.note-item {
+				&__image {
+
+					&--wroclaw {
+						height: 40vh;
+					}
+
+					&--poznan {
+						height: 40vh;
+					}
+
+					&--torun {
+						height: 40vh;
+					}
+						
+				}
+			}
+		}
+	}
+
+	.job-section {
+		&__title {
+			width: 80%;
+			font-size: 1.6em;
+		}
+	}
+
+	.job-section-offer {
+		grid-template-columns: 1fr;
+		grid-template-rows: auto;
+
+		&__image-1 {
+			height: 50vh;
+		}
+
+		&__image-2 {
+			height: 50vh;
+			order: 4;
+		}
+	}
+
+	.team-section {
+		.team-members-container {
+			grid-template-columns:  1fr;
+			grid-template-areas: auto;
+
+			.team-member {
+				&__image {
+					height: 50vh;
+				}
+			}
+		}
+	}
+
+	.form-section {
+		width: 100%;
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr 1fr;
+		gap: 2em;
+
+		.socials {
+			box-shadow: 3px 3px 10px 4px #ccc;
+		}
+	}
+}
+
+
+
+@media (max-width: 600px) {
+	body {
+		font-size: 20px;
+	}
+
+	.slider-section {
+		font-size: 1.6em;
+	}
+
+	.location-section {
+		.notes-container {
+			grid-template-columns: 1fr;
+			grid-template-rows: auto;
+		}
+	}
+
+	.team-section {
+		.team-members-container {
+			grid-template-columns:  1fr;
+			grid-template-areas: auto;
+
+			.team-member {
+				&__image {
+					height: 30vh;
+				}
+			}
+		}
+	}
+
+}

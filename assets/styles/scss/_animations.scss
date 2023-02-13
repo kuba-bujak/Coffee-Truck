@@ -1,0 +1,28 @@
+@keyframes menu-slide-down {
+	0% {
+		transform: translateY(-80px);
+		opacity: 0;
+	}
+	100% {
+		
+	}
+}
+
+@keyframes submenu-slide-down {
+	0% {
+		transform: translateX(-100vw);
+	}
+	100% {
+		
+	}
+}
+
+@keyframes fade {
+	0% {
+		transform: translateX(100vw);
+	}
+
+	100% {
+
+	}
+ }

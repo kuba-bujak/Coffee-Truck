@@ -1,0 +1,33 @@
+/*---------- Config ----------*/
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/*---------- Colors ----------*/
+
+$main-black-color: #000;
+$main-font-color: #fff;
+$second-background-color: #512615;
+$main-background-color: #7f5838;
+$main-highlight-color: #e6c570;
+
+
+/*---------- Fonts ----------*/
+
+$main-font-family: 'Archivo Narrow', sans-serif;
+$second-font-family: 'Roboto', sans-serif;
+$fancy-font-family: 'Knewave', cursive;
+$second-fancy-family: 'Shadows Into Light', cursive;
+
+// @font-face {
+// 	font-family: '';
+// 	src: url('../../fonts/') format('opentype');
+// }

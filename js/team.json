@@ -1,0 +1,65 @@
+[
+	{
+	  "image": "./assets/img/team/rachel-smith.jpg",
+	  "name": "Rachel Smith",
+	  "role": "Barista",
+	  "phone": "(123) 456-7890",
+	  "email": "rsmith@coffeetruck.com"
+	},
+	{
+	  "image": "./assets/img/team/jake-rodriguez.jpg",
+	  "name": "Jake Rodriguez",
+	  "role": "Assistant Manager",
+	  "phone": "(123) 456-7891",
+	  "email": "jrodriguez@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/samantha-johnson.jpg",
+	  "name": "Samantha Johnson",
+	  "role": "Head Barista",
+	  "phone": "(123) 456-7892",
+	  "email": "sjohnson@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/michael-williams.jpg",
+	  "name": "Michael Williams",
+	  "role": "Food Prep",
+	  "phone": "(123) 456-7893",
+	  "email": "mwilliams@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/emily-brown.jpg",
+	  "name": "Emily Brown",
+	  "role": "Customer Service",
+	  "phone": "(123) 456-7894",
+	  "email": "ebrown@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/david-lee.jpg",
+	  "name": "David Lee",
+	  "role": "Barista",
+	  "phone": "(123) 456-7895",
+	  "email": "dlee@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/maria-gonzalez.jpg",
+	  "name": "Maria Gonzalez",
+	  "role": "Head Barista",
+	  "phone": "(123) 456-7896",
+	  "email": "mgonzalez@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/katarina-petrus.jpg",
+	  "name": "Katarina Petrus",
+	  "role": "Food Prep",
+	  "phone": "(123) 456-7897",
+	  "email": "kpetrus@coffeetruck.com"
+	},
+	{
+		"image": "./assets/img/team/olivia-taylor.jpg",
+	  "name": "Olivia Taylor",
+	  "role": "Customer Service",
+	  "phone": "(123) 456-7898",
+	  "email": "otaylor@coffeetruck.com"
+	}
+ ]
